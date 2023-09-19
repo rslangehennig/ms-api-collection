@@ -1,0 +1,16 @@
+{
+  "application": "CP4I-ACEIVT",
+  "applicationProcess": "Deploy Backend and Frontend API",
+  "environment": "DEV",
+  "onlyChanged": "false",
+  "versions": [
+    {
+      "version": "latest",
+      "component": "CP4I-ACEIVT-BAR"
+    },
+    {
+      "version": "latest",
+      "component": "CP4I-ACEIVT-API"
+    }
+  ]
+}
